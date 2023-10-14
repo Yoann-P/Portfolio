@@ -35,41 +35,8 @@ const Header = () => {
             <li>
               <a
                 className="pt-trigger"
-                data-animation={61}
-                data-goto={6}
-                href="#contact"
-              >
-                <i className="lni-licencse" />
-                <span>Contact</span>
-              </a>
-            </li>
-            <li>
-              <a
-                className="pt-trigger"
                 data-animation={59}
-                data-goto={2}
-                href="#about"
-              >
-                <i className="lni-user" />
-                <span>About</span>
-              </a>
-            </li>
-            <li>
-              <a
-                className="pt-trigger"
-                data-animation={61}
                 data-goto={3}
-                href="#services"
-              >
-                <i className="lni-first-aid" />
-                <span>Services</span>
-              </a>
-            </li>
-            <li>
-              <a
-                className="pt-trigger"
-                data-animation={59}
-                data-goto={4}
                 href="#portfolio"
               >
                 <i className="lni-gallery" />
@@ -79,25 +46,14 @@ const Header = () => {
             <li>
               <a
                 className="pt-trigger"
-                data-animation={58}
-                data-goto={5}
-                href="#clients"
-              >
-                <i className="lni-emoji-smile" />
-                <span>Client</span>
-              </a>
-            </li>
-            {/* <li>
-              <a
-                className="pt-trigger"
                 data-animation={61}
-                data-goto={6}
+                data-goto={2}
                 href="#contact"
               >
                 <i className="lni-licencse" />
                 <span>Contact</span>
               </a>
-            </li> */}
+            </li>
           </ul>
           {/* /Main menu */}
         </div>

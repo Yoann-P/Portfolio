@@ -8,7 +8,7 @@ const Home = () => {
           {/* Image Area */}
           <div className="col-lg-7 order-lg-2">
             <div className="slider-image">
-              <img src="personal/img/girl.png" alt="girl" />
+              <img src="personal/img/slide-moi.png" alt="Yoann.P" />
             </div>
           </div>
           {/* Text Area */}
@@ -16,17 +16,18 @@ const Home = () => {
             {/* Box Area */}
             <div className="heading-box">
               <h2>
-                Walker<span className="main-color">son</span> Hardin
+                Designer<span className="main-color">UI/UX</span> <br />
+                Dev Front
               </h2>
               <p>
-                There are many variations of passages of Lorem Ipsum is at the
-                available, but the majority have
-                <span className="main-color">suffered</span> alteration some
-                form, by injected humour randomised words at the available.
+                Je suis <span className="main-color">Yoann</span>, un web
+                designer passionné et créatif. Je conçois des sites web modernes
+                et élégants qui captivent les utilisateurs. Avec mon expertise
+                en&nbsp;
+                <span className="main-color">design UI/UX</span> et mon
+                utilisation des dernières technologies, je crée des expériences
+                utilisateur engageantes et intuitives.
               </p>
-              <a href="#;" data-text="Read More" className="btn btn-link">
-                Read More
-              </a>
             </div>
           </div>
         </div>

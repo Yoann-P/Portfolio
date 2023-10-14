@@ -128,7 +128,7 @@ p:last-child {
 }
 a:active,
 a:hover {
-  color: #35ab39;
+  color: #000000;
 }
 blockquote {
   border-left: 2px solid;
@@ -246,7 +246,7 @@ blockquote > cite {
 .btn-link,
 .btn-link:hover,
 .btn-link:focus {
-  color: #35ab39;
+  color: #000000;
   text-decoration: none;
   padding: 0;
 }
@@ -313,15 +313,15 @@ blockquote > cite {
   color: #2b2b2b !important;
 }
 .btn.btn-green {
-  background: #35ab39;
-  border-color: #35ab39;
+  background: #000000;
+  border-color: #000000;
   color: #ffffff;
 }
 .btn.btn-green:hover,
 .btn.btn-green:focus {
   background: transparent !important;
-  border-color: #35ab39;
-  color: #35ab39 !important;
+  border-color: #000000;
+  color: #000000 !important;
 }
 .btn.btn-hvr-white:hover,
 .btn.btn-hvr-white:focus {
@@ -359,7 +359,7 @@ blockquote > cite {
 
 /* text-color */
 .main-color {
-  color: #35ab39;
+  color: #000000;
 }
 
 /*Max Width*/
@@ -489,7 +489,7 @@ blockquote > cite {
   background-color: #af0606;
 }
 .social-icon-bg-hvr a:hover i.fa-vine {
-  background-color: #00b489;
+  background-color: #212121;
 }
 
 /* ===================================
@@ -613,7 +613,7 @@ blockquote > cite {
   color: #af0606;
 }
 .social-icon-clr-hvr a i:hover.fa-vine {
-  color: #00b489;
+  color: #212121;
 }
 
 /* ========== End Basic Style ========== */
@@ -654,7 +654,7 @@ blockquote > cite {
   align-content: center;
   align-items: center;
   text-align: center;
-  background-color: #35ab39;
+  background-color: #000000;
   font-weight: 600;
 }
 
@@ -736,7 +736,7 @@ blockquote > cite {
 
 .site-main-menu li > a:hover i,
 .site-main-menu li > a:hover span {
-  color: #35ab39;
+  color: #000000;
   transition: color 0.1s ease-in-out;
 }
 
@@ -745,7 +745,7 @@ blockquote > cite {
 }
 
 .site-main-menu li.active > a {
-  color: #35ab39;
+  color: #000000;
 }
 
 .site-main-menu li.active > a:before {
@@ -755,7 +755,7 @@ blockquote > cite {
   width: 4px;
   top: 0;
   right: 0;
-  background-color: #35ab39;
+  background-color: #000000;
 }
 
 .site-main-menu li > a i {
@@ -766,7 +766,7 @@ blockquote > cite {
 }
 
 .site-main-menu li.active > a i {
-  color: #35ab39;
+  color: #000000;
 }
 
 /* ===================================
@@ -834,15 +834,16 @@ blockquote > cite {
 .slider-image {
   position: relative;
   margin: 0 auto;
-  background-color: #35ab39;
+  background-color: transparent;
   border-radius: 50%;
   top: 150px;
   margin-bottom: -80px;
 }
 
 .slider-image img {
-  top: -150px;
-  width: 100%;
+  top: -100px;
+  left: 25%;
+  width: 50%;
   position: relative;
 }
 
@@ -852,7 +853,7 @@ blockquote > cite {
   position: absolute;
   width: 50px;
   height: 50px;
-  background-color: #35ab39;
+  background-color: #000000;
   top: 8%;
   right: 5%;
   opacity: 0.6;
@@ -882,7 +883,7 @@ blockquote > cite {
   transition: all 0s;
   border-left: 20px solid transparent;
   border-right: 20px solid transparent;
-  border-bottom: 50px solid #35ab39;
+  border-bottom: 50px solid #000000;
   -webkit-animation: right-to-left 20s linear infinite;
 }
 
@@ -903,7 +904,7 @@ blockquote > cite {
   top: 15%;
   left: 13%;
   border-radius: 1px;
-  background: #35ab39;
+  background: #000000;
   height: 40px;
   width: 5px;
   opacity: 0.6;
@@ -913,7 +914,7 @@ blockquote > cite {
 
 .shape-plus:after {
   border-radius: 1px;
-  background-color: #35ab39;
+  background-color: #000000;
   content: "";
   height: 5px;
   position: absolute;
@@ -929,7 +930,7 @@ blockquote > cite {
   width: 60px;
   height: 60px;
   opacity: 0.6;
-  border: 5px solid #35ab39;
+  border: 5px solid #000000;
   border-radius: 50%;
   -webkit-animation: heartBeat 10s linear infinite;
 }
@@ -994,7 +995,7 @@ blockquote > cite {
   height: 55px;
   width: 55px;
   line-height: 55px;
-  background-color: #35ab39;
+  background-color: #000000;
   display: inline-block;
   vertical-align: middle;
   text-align: center;
@@ -1035,7 +1036,7 @@ blockquote > cite {
 
 .services-skill .progress-bar {
   border-radius: 50px;
-  background-color: #35ab39;
+  background-color: #000000;
 }
 
 .progress-item b {
@@ -1056,7 +1057,7 @@ blockquote > cite {
 .counter-area .counters .c-icon {
   font-size: 40px;
   margin-right: 15px;
-  color: #35ab39;
+  color: #000000;
 }
 
 .services-about {
@@ -1081,7 +1082,7 @@ blockquote > cite {
 
 .services-about .content {
   position: absolute;
-  background-color: #35ab39;
+  background-color: #000000;
   bottom: 0;
   left: 0;
   max-width: 500px;
@@ -1118,7 +1119,7 @@ blockquote > cite {
   text-align: center;
   padding: 10px;
   border-radius: 50px;
-  background-color: #35ab39;
+  background-color: #000000;
   font-size: 20px;
   position: absolute;
   right: 20px;
@@ -1163,7 +1164,7 @@ blockquote > cite {
 .client-box i.q-icon {
   font-size: 30px;
   margin-bottom: 10px;
-  color: #35ab39;
+  color: #000000;
   display: inline-block;
 }
 
@@ -1185,12 +1186,12 @@ blockquote > cite {
   line-height: 0;
   border-radius: 50px;
   background: transparent;
-  border: 2px solid #35ab39;
+  border: 2px solid #000000;
   transition: 0.3s all ease-in-out;
 }
 
 #client-nav button:hover {
-  background: #35ab39;
+  background: #000000;
   transition: 0.3s all ease-in-out;
 }
 
@@ -1203,7 +1204,7 @@ blockquote > cite {
   display: inline-block;
   top: 2px;
   position: relative;
-  color: #35ab39;
+  color: #000000;
 }
 
 #client-nav button:hover > span {
@@ -1583,4 +1584,28 @@ blockquote > cite {
     z-index: 91;
     overflow: visible;
   }
+}
+/* STYLE PERSO */
+#home,
+#contact,
+#portfolio {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+.header-left {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+#nav li,
+#nav li i {
+  color: white;
 }
